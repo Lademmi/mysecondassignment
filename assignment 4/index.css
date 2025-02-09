@@ -1,0 +1,33 @@
+/* assignment 4 */
+*{
+  font-family: "sofia";
+  background-color: rgb(216, 247, 237);
+}
+
+.container{
+    margin-left: 80px;
+}
+
+.cont1{
+    font-family: "Sofia", serif;
+    font-weight: 400px;
+    font-style: normal;
+  }
+
+  p{
+    width: 300px;
+  }
+
+  button{
+    width: 300px;
+    background-color: aquamarine;
+  }
+
+  input{
+    width: 300px;
+  }
+
+  select{
+    width:300px;
+  }
+  
